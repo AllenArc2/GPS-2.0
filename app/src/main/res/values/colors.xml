@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="blue">#1976D2</color> <!-- Darker blue (Better contrast than holo_blue_light) -->
+    <color name="red">#D32F2F</color>  <!-- Darker red (Better contrast than holo_red_light) -->
+
+    <!-- Alternative Darker Colors for Better Contrast -->
+    <color name="dark_blue">#0D47A1</color> <!-- Even darker blue -->
+    <color name="dark_red">#B71C1C</color>  <!-- Even darker red -->
+
+    <!-- Text Colors -->
+    <color name="white">#FFFFFF</color>  <!-- White text -->
+    <color name="black">#000000</color>  <!-- Black text -->
+</resources>
